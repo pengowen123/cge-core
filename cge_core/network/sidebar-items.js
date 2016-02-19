@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Network","A struct representing a neural network"]]});
