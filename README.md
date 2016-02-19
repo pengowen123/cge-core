@@ -20,7 +20,7 @@ And this to your crate root:
 extern crate cge_core;
 ```
 
-To load a neural network, first create one using [EANT2], save it to a file, and copy the data in the file into a string:
+To load a neural network, first create one using [EANT2][1], save it to a file, and copy the data in the file into a string:
 
 ```rust
 use cge_core::*;
@@ -36,7 +36,7 @@ fn main() {
 }
 ```
 
-See the [documentation] for more instructions.
+See the [documentation][2] for more instructions.
 
 [1]: https://github.com/pengowen123/eant2
 [2]: http://pengowen123.github.io/cge-core/cge_core/index.html
