@@ -1,6 +1,6 @@
 # cge-core
 
-!https://travis-ci.org/pengowen123/cge-core.svg?branch=master!:https://travis-ci.org/pengowen123/cge-core
+[![Build Status](https://travis-ci.org/pengowen123/cge-core.svg?branch=master)](https://travis-ci.org/pengowen123/cge-core)
 
 A no_std version of the CGE library. Not complete yet, will be released soon.
 
@@ -12,6 +12,7 @@ Add this to your Cargo.toml:
 [dependencies]
 
 cge_core = { git = "https://github.com/pengowen123/cge-core" }
+```
 
 And this to your crate root:
 
